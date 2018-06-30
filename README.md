@@ -1,5 +1,5 @@
 # Brukonoid 2010
-Sample pure java game, with use of thread and manage of frame per second vs tick per second.
+Simple pure java game, with use of thread and manage of frame per second vs tick per second.
 Loader of midi for sound, wav for effects  and various sprite.
 
 Main file: Brukonoid\src\main\java\it\reef\ark\main
