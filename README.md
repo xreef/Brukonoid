@@ -1,6 +1,8 @@
-# Brukonoid
-Sample pure java game, with use of thread and manage of frame per second vs tick per second
+# Brukonoid 2010
+Sample pure java game, with use of thread and manage of frame per second vs tick per second.
 Loader of midi for sound, wav for effects and various sprite.
+
+It's made in the last 2010 but very usefully to understand games logic.  
 
 Eclipse project
 
@@ -10,3 +12,10 @@ Command to start:
 mvn install
 Than start with Run As and select Ark class.
 
+Some screen
+
+![Screen](https://github.com/xreef/Brukonoid/blob/master/resources/screen01.png)
+
+![Screen](https://github.com/xreef/Brukonoid/blob/master/resources/screen02.png)
+
+![Screen](https://github.com/xreef/Brukonoid/blob/master/resources/screen03.png)
