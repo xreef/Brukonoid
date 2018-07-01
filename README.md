@@ -1,4 +1,7 @@
 # Brukonoid 2010
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 Simple pure java game, with use of thread and manage of frame per second vs tick per second.
 Loader of midi for sound, wav for effects  and various sprite.
 
